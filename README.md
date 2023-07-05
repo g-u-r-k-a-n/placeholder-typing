@@ -1,7 +1,7 @@
 # placeholder-typing
 
 This is a simple animated typing function without any dependencies for placeholders.<br>
-Define an `placeholders` array and just invoke `placeholderTyping(placeholders)` function. <br>
+Define a string array `placeholders` and just invoke `placeholderTyping(placeholders)` function. <br>
 BTW, you can send minor settings with next arguments named `placeholderLength` or `count` after `placeholders` parameter.
 
 ```
